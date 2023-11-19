@@ -54,6 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /*Image does NOT need alt tag because it is a background image that does not impact the functionality of the page*/
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
