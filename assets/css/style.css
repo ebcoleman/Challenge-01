@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/*Sets the color for the background of the body of the page */
 body {
     background-color: #d9dcd6;
 }
-
+/* Sets the font type and color and adds spacing(padding) around each element in the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* "Horiseon" in the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changed the color of the text "seo" in the text of "Horiseon" */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Sets the navigation elements as well as sets the font */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Sets the default for the list style in the navigation element */
 .header nav ul {
     list-style-type: none;
 }
-
+/* Tells the list how to display the navigation elements in the list */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Sets the color of the font for the hyperlinks' name in each section */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Makes the font size smaller in the paragraphs of each article */
 p {
     font-size: 16px;
 }
-
+/* The hero is the background image under the header, this formats and adds the image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Moves the images in the articles to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Moves the image in the article to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Sets the content to stack the articles, taking up the majority of the page */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Formats each article */
 .article {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,16 +83,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sets size of image in each article */
 .article img {
     max-height: 200px;
 }
-
+/* Sets size of the heading in each article */
 .article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* moved the benefits code below the content because that is how it is written in HTML */
+/* Formats the benefits section's text and puts it on the right side of the page smaller than the content section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,30 +103,30 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* each article in the benefits section has been consolidated to one section instead of 3*/
+/* Formats text color and margin in benefit section */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Sets size and alignment of each heading in the benefit section */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Sets size of image in each article in the benefit section */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Formats the footer */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Sets font size for the footer */
 .footer h2 {
     font-size: 20px;
 }
