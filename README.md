@@ -2,39 +2,22 @@
 
 ## Description
 
-<!--Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?-->
-
 Challenge 01 is a webpage that has been created for a marketing agency; highlighting search engine optimization, online reputation management, and social media marketing. 
 I am building this project to meet the customers needs, as well as meet accessibility standards. 
 Following accessibility standards helps search engines understand the content on the webpage. This will ulimately make the web page easier for all users. 
+By the end of this project, I learned an extensive amount about semantic HTML and the reasons it is good to use. I also learned more about CSS and how to structure the style sheet as well as put in comments. 
 
-<!-- - What did you learn? -->
+## Usage 
 
-## Usage <!-- This section needs a screenshot and the link to deploy the application(url)-->
+Screenshot:
+![Alt text](assets/images/final-challenge-1-screenshot.png)
 
-<!-- Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ``` 
-    -->
-
+Link:
+http://127.0.0.1:5501/index.html
 
 ## Credits
 
-<!--List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.-->
-
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-
-
-## License
-
-<!-- The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/). -->
+https://www.educative.io/answers/adding-images-to-readmemd-in-github
+https://webaim.org/resources/htmlcheatsheet/HTML%20Semantics%20and%20Accessibility%20Cheat%20Sheet.pdf
+https://www.w3schools.com/html/html5_semantic_elements.asp
