@@ -17,6 +17,9 @@ http://127.0.0.1:5501/index.html
 
 ## Credits
 
+Starter code came from link below:
+https://github.com/coding-boot-camp/urban-octo-telegram
+
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 https://www.educative.io/answers/adding-images-to-readmemd-in-github
 https://webaim.org/resources/htmlcheatsheet/HTML%20Semantics%20and%20Accessibility%20Cheat%20Sheet.pdf
