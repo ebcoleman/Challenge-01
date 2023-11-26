@@ -13,7 +13,7 @@ Screenshot:
 ![Alt text](assets/images/final-challenge-1-screenshot.png)
 
 Link:
-http://127.0.0.1:5501/index.html
+https://ebcoleman.github.io/Challenge-01/
 
 ## Credits
 
